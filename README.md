@@ -3,7 +3,9 @@
 
 ------
 
-注：在**P6逻辑斯谛回归**的课程中，要下载的CIFAR-10数据集超过了100M，GitHub上传不了，需要的可以直接[这个网站](http://www.cs.toronto.edu/~kriz/cifar.html)下载，点击如下图所示处即可：
+**CSDN专栏文章地址：https://blog.csdn.net/m0_56676945/category_12272697.html**
+
+注：在**P6逻辑斯谛回归**的课程中，要下载的CIFAR-10数据集超过了100M，GitHub上传不了，需要该数据集的可以直接在[该网站](http://www.cs.toronto.edu/~kriz/cifar.html)下载，然后点击下图所示，下载即可：
 
 ![image-20230409000025363](https://gitee.com/SolarLv/my-image-host/raw/master/img/image-20230409000025363.png)
 
